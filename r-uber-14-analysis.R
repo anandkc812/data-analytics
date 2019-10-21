@@ -100,16 +100,3 @@ ggplot(day_month_group, aes(Month, Day, fill=Total)) + geom_tile(color='blue') +
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
